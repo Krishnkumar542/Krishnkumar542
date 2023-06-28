@@ -1,4 +1,4 @@
-<img align = "centre" alt="Coding" width="800" src="https://miro.medium.com/v2/resize:fit:3000/format:webp/1*8uKmG5A-goL0qfo0Z-aKww.jpeg">
+<img align = "center" alt="Coding" width="900" src="https://miro.medium.com/v2/resize:fit:3000/format:webp/1*8uKmG5A-goL0qfo0Z-aKww.jpeg">
 <h1 align="center">Hi 👋, I'm Krishnkumar Gupta</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
