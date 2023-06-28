@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishnkumar Gupta</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-<img align = "right" alt="Coding" width="400" src="https://www.canstockphoto.com/colorful-data-analysis-vector-53411107.html">
+<img align = "right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:3000/format:webp/1*8uKmG5A-goL0qfo0Z-aKww.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnkumar542&label=Profile%20views&color=0e75b6&style=flat" alt="krishnkumar542" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, NLP**
